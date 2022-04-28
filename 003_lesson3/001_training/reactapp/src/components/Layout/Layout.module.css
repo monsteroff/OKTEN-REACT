@@ -1,0 +1,15 @@
+.outlet{
+    height: calc( 100vh - 90px );
+    background-color: darkred;
+    font-size: 30px;
+    overflow: hidden;
+    overflow-y: scroll;
+}
+.footer{
+    background-color: rebeccapurple;
+    min-height: 20px;
+    color: snow;
+    display: flex;
+    justify-content: right;
+    padding-right: 20px;
+}
